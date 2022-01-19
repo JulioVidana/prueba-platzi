@@ -7,3 +7,10 @@ body{
 .container{
 border: violet;
 }
+
+#cabecera{
+    background: grey;
+    color: black;
+    width: 200px;
+    
+}
